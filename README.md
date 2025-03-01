@@ -10,8 +10,6 @@
 - **Cloud & DevOps**: AWS (EC2, S3, RDS), Docker, CI/CD (GitHub Actions)
 - **Tools**: Git, GitHub, Postman, IntelliJ IDEA
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 📌 Pinned Projects
 🔹 [Healthcare Appointment Booking System](https://github.com/your-repo-link) - Spring Boot + Angular + AWS  
