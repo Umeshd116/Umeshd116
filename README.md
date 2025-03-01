@@ -72,27 +72,13 @@ I build **powerful solutions** that make a **lasting impact**.
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/umesh-desaboina-555b761a2/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
-  </a>
-  <a href="https://devakshay.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" height="30"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
+
+  <a href="mailto:umeshd1503@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" height="30"/>
   </a>
 </p>
 
 ---
 
-## 🐍 **Contribution Graph**
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Contributions" />
-</p>
-
----
-
-## 👀 **Visitor Count**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
