@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 **About Me**
-Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AWS, and AI**. Bringing a unique perspective through my creative background in **Music and Art**. I build **powerful solutions** that make a **lasting impact**.  
+Hi, I'm **Umesh**. I'm a **Software Developer** with expertise in **Java, Python, AWS, and AI**. Bringing a unique perspective through my creative background in **Music and Art**. I build **powerful solutions** that make a **lasting impact**.  
 
 🎨 **Beyond coding**, I channel my creativity through **drawing**—a passion that helps me to express myself beyond the digital realm.  
 🎬 I'm also an avid fan of **adventurous sci-fi movies**, constantly exploring new worlds and futuristic concepts.  
