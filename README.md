@@ -62,7 +62,7 @@ Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AW
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umeshd116&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
