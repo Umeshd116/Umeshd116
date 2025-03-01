@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! I'm Umesh</h1>
 <h3 align="center">
-  🚀 Java Full Stack Developer | Spring Boot | Angular | AWS | AI | Python
+  🚀 Java Full Stack Developer | Spring Boot | Angular | AWS |
 </h3>
 
 <p align="center">
