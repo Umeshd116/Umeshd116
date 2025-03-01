@@ -53,7 +53,6 @@ Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AW
 ## 📈 **GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
@@ -64,13 +63,6 @@ Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AW
 ## 🏆 **GitHub Achievements**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 💻 **Live Coding Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula" alt="GitHub Activity Graph" />
 </p>
 
 ---
