@@ -10,15 +10,22 @@
 ---
 
 ## 🌟 **About Me**
-Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AWS, and AI**.  
-Bringing a unique perspective through my creative background in **Music and Art**.  
-I build **powerful solutions** that make a **lasting impact**.  
+Hi, I'm Umesh. I'm a **Software Developer** with expertise in **Java, Python, AWS, and AI**. Bringing a unique perspective through my creative background in **Music and Art**. I build **powerful solutions** that make a **lasting impact**.  
 
 🎨 **Beyond coding**, I channel my creativity through **drawing**—a passion that helps me to express myself beyond the digital realm.  
 🎬 I'm also an avid fan of **adventurous sci-fi movies**, constantly exploring new worlds and futuristic concepts.  
 
 ---
+## 🌐 **Socials:**
+<p align="center">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/umesh-desaboina-555b761a2/)" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
 
+  <a href="mailto:umeshd1503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" height="30"/>
+  </a>
+</p>
+---
 ## 📈 **GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -70,7 +77,7 @@ I build **powerful solutions** that make a **lasting impact**.
 
 ---
 
-## 🌐 **Connect with Me**
+## 🌐 **Socials:**
 <p align="center">
   <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/umesh-desaboina-555b761a2/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
