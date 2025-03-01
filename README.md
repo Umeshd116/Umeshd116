@@ -18,8 +18,7 @@
 🔹 [Secure Messaging App](https://github.com/your-repo-link) - Java, Firebase, AES/RSA Encryption  
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat&logo=vercel)](https://devakshay.vercel.app/)  
+LinkedIn: https://www.linkedin.com/in/umesh-desaboina-555b761a2/
 
 
 <!--
