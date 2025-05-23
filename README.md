@@ -18,7 +18,7 @@ Hi, I'm **Umesh**. I'm a **Software Developer** with expertise in **Java, Python
 ---
 ## 🌐 **Socials:**
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/umesh-desaboina-555b761a2/)" target="blank">
+  <a href="(https://www.linkedin.com/in/umesh-desaboina-555b761a2/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"/>
 
   <a href="mailto:umeshd1503@gmail.com">
